@@ -1,0 +1,4 @@
+classes:
+- system.billometer.server.single
+- system.openstack.common
+- system.openstack.billing.credentials
